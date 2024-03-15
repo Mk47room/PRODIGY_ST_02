@@ -1,1 +1,2 @@
-# PRODIGY_ST_02
+# Stopwatch-Project
+A simple stopwatch program using HTML CSS and JavaScript!
